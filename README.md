@@ -1,7 +1,8 @@
-DS4A-DE-Group2_wnba-nba-salary-gap
+
+Analyzing Pay Gap Between the WNBA and the NBA
 ==============================
 
-Analyzing salary gap between WNBA and NBA players
+Capstone project as part of the DS4A/Data Engineering program (Group 2)
 
 Project Organization
 ------------
