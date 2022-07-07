@@ -1,8 +1,6 @@
 import os
 import requests
 import pandas as pd
-from bs4 import BeautifulSoup
-from pprint import pprint
 import dash
 import dash_bootstrap_components as dbc
 from dash import Dash, html, dcc
@@ -11,7 +9,6 @@ from pathlib import Path
 from typing import Tuple, Optional
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
-import boto3
 
 ########################################################
 # LOAD DATA
