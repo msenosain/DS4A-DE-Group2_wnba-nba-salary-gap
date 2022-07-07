@@ -319,7 +319,7 @@ def top10players_bystat(league_val, stat):
     fig_stat.update_layout(
         title_text="Top 10 players by chosen stat",
         showlegend=False,
-        title_font_size=22,
+        title_font_size=18,
         title_x=0.5,
         title_y=0.92,
         yaxis_categoryorder="total ascending",
@@ -330,7 +330,7 @@ def top10players_bystat(league_val, stat):
         ),
         xaxis=dict(
             title=stat,
-            titlefont_size=16,
+            titlefont_size=15,
             tickfont_size=11,
         ),
     )
@@ -346,7 +346,7 @@ def top10players_bystat(league_val, stat):
     fig_salary.update_layout(
         title_text="Salary of top 10 players by chosen stat",
         showlegend=False,
-        title_font_size=22,
+        title_font_size=18,
         title_x=0.5,
         title_y=0.92,
         yaxis_categoryorder="total ascending",
@@ -357,7 +357,7 @@ def top10players_bystat(league_val, stat):
         ),
         xaxis=dict(
             title="USD",
-            titlefont_size=16,
+            titlefont_size=15,
             tickfont_size=11,
         ),
     )
