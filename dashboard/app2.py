@@ -26,6 +26,27 @@ def human_format(num):
                          ['', 'K', 'M', 'B', 'T'][magnitude])
 
 
+# Buttons at the begining 
+radio_league = dbc.RadioItems(
+    id="wnba_nba",
+    className="radio",
+    options=[
+        dict(label="WNBA", value=0),
+        dict(label="NBA", value=1),
+        dict(label="Both", value=2),
+    ],
+    value=2,
+    inline=True,
+)                         
+
+# Dropdown menu for stats
+drop_stats = dcc.Dropdown(
+    id="drop_stats",
+    clearable=False,
+    searchable=False,
+    style={"margin": "4px", "box-shadow": "0px 0px #ebb36a", "border-color": "#ebb36a"},
+)
+
 ########################################################
 # DASH
 ########################################################
@@ -109,7 +130,8 @@ cards = [
     ),
 ]
 
-    
+
+
 
 
 app.layout = dbc.Container(
@@ -118,6 +140,24 @@ app.layout = dbc.Container(
         html.Hr(),
         dbc.Row([dbc.Col(card) for card in cards]),
         html.Br(),
+        dbc.Row([
+            dbc.Col(html.Div(
+            [
+                html.Label("Choose League:"),
+                html.Br(),
+                html.Br(),
+                radio_league,
+            ],
+            className="box",
+            )),
+            dbc.Col(html.Div(
+                [
+                    html.Label("Choose stat: "),
+                    drop_stats,
+                ],
+                className="box",
+            ))
+        ])
     ],
     fluid=False,
 )
