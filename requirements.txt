@@ -112,3 +112,10 @@ wrapt==1.12.1
 xgboost==1.0.2
 xport==3.2.1
 zipp==3.4.1
+
+# others
+boto3
+plotly.express
+csv
+bs4
+pprint
