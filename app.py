@@ -14,11 +14,11 @@ from dash.exceptions import PreventUpdate
 # LOAD DATA
 ########################################################
 
-dirname = os.path.dirname(__file__)
-path = os.path.join(dirname, "data/")
-data_nba_wnba = pd.read_csv(path + "statspergame_salary_wnba_nba_2019.csv")
-league_rev = pd.read_csv(path + "league_revenue.csv")
-wnba_attendance_df = pd.read_csv(path + "wnba_attendance.csv")
+#dirname = os.path.dirname(__file__)
+#path = os.path.join(dirname, "data/")
+data_nba_wnba = pd.read_csv("data/statspergame_salary_wnba_nba_2019.csv")
+league_rev = pd.read_csv("data/league_revenue.csv")
+wnba_attendance_df = pd.read_csv("data/wnba_attendance.csv")
 
 # create a new attendance dataframe with only the 2019 season
 season_2019_df = wnba_attendance_df[wnba_attendance_df.season.isin([2019])]
