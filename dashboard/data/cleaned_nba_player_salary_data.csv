@@ -1,0 +1,529 @@
+first_name,last_name,position,team,salary
+Stephen,Curry,PG,Golden State Warriors,40231758
+Chris,Paul,PG,Oklahoma City Thunder,38506482
+Russell,Westbrook,PG,Houston Rockets,38506482
+James,Harden,SG,Houston Rockets,38199000
+Kevin,Durant,PF,Brooklyn Nets,38199000
+John,Wall,PG,Houston Rockets,38199000
+LeBron,James,SF,Los Angeles Lakers,37436858
+Kyle,Lowry,PG,Toronto Raptors,34996296
+Blake,Griffin,PF,Detroit Pistons,34449964
+Tobias,Harris,PF,Philadelphia 76ers,32742000
+Kemba,Walker,PG,Boston Celtics,32742000
+Jimmy,Butler,SF,Miami Heat,32742000
+Kawhi,Leonard,SF,LA Clippers,32742000
+Klay,Thompson,SG,Golden State Warriors,32742000
+Gordon,Hayward,SF,Boston Celtics,32700690
+Mike,Conley,PG,Utah Jazz,32511624
+Kyrie,Irving,PG,Brooklyn Nets,31742000
+Khris,Middleton,SF,Milwaukee Bucks,30603448
+Paul,George,SG,LA Clippers,30560700
+Paul,Millsap,PF,Denver Nuggets,30350000
+Damian,Lillard,PG,Portland Trail Blazers,29802321
+Kevin,Love,PF,Cleveland Cavaliers,28942830
+Nikola,Vucevic,C,Orlando Magic,28000000
+Al,Horford,C,Philadelphia 76ers,28000000
+DeMar,DeRozan,SF,San Antonio Spurs,27739975
+CJ,McCollum,SG,Portland Trail Blazers,27556959
+Joel,Embiid,C,Philadelphia 76ers,27504630
+Andrew,Wiggins,SF,Golden State Warriors,27504630
+Nikola,Jokic,C,Denver Nuggets,27504630
+Kristaps,Porzingis,C,Dallas Mavericks,27285000
+Devin,Booker,SG,Phoenix Suns,27285000
+D'Angelo,Russell,PG,Minnesota Timberwolves,27285000
+Karl-Anthony,Towns,C,Minnesota Timberwolves,27285000
+Otto,Porter,Jr. SF,Chicago Bulls,27250575
+Bradley,Beal,SG,Washington Wizards,27093019
+Andre,Drummond,C,Cleveland Cavaliers,27093019
+Anthony,Davis,PF,Los Angeles Lakers,27093018
+Hassan,Whiteside,C,Portland Trail Blazers,27093017
+Jrue,Holiday,PG,New Orleans Pelicans,26231111
+LaMarcus,Aldridge,C,San Antonio Spurs,26000000
+Steven,Adams,C,Oklahoma City Thunder,25842697
+Giannis,Antetokounmpo,PF,Milwaukee Bucks,25842697
+Marc,Gasol,C,Toronto Raptors,25595700
+Nicolas,Batum,PF,Charlotte Hornets,25565217
+Chandler,Parsons,SF,Atlanta Hawks,25102511
+Harrison,Barnes,SF,Sacramento Kings,24147727
+Serge,Ibaka,C,Toronto Raptors,23271604
+Rudy,Gobert,C,Utah Jazz,23241573
+Danilo,Gallinari,PF,Oklahoma City Thunder,22615559
+Victor,Oladipo,SG,Indiana Pacers,21000000
+Tim,Hardaway,Jr. SF,Dallas Mavericks,20025127
+Malcolm,Brogdon,PG,Indiana Pacers,20000000
+Terry,Rozier,SG,Charlotte Hornets,19894737
+Aaron,Gordon,PF,Orlando Magic,19863636
+Zach,LaVine,SG,Chicago Bulls,19500000
+Kent,Bazemore,SF,Sacramento Kings,19269662
+Goran,Dragic,PG,Miami Heat,19217900
+Jeff,Teague,PG,Atlanta Hawks,19000000
+Evan,Turner,G,Atlanta Hawks,18606556
+Draymond,Green,PF,Golden State Warriors,18539130
+Tristan,Thompson,C,Cleveland Cavaliers,18539130
+Allen,Crabbe,G,Minnesota Timberwolves,18500000
+Julius,Randle,PF,New York Knicks,18000000
+Myles,Turner,C,Indiana Pacers,18000000
+Gary,Harris,SG,Denver Nuggets,17839286
+Derrick,Favors,C,New Orleans Pelicans,17650000
+Andre,Iguodala,F,Miami Heat,17185185
+Evan,Fournier,SG,Orlando Magic,17150000
+Bojan,Bogdanovic,SF,Utah Jazz,17000000
+Bismack,Biyombo,C,Charlotte Hornets,17000000
+Timofey,Mozgov,C,Orlando Magic,16720000
+Gorgui,Dieng,C,Memphis Grizzlies,16229213
+Ricky,Rubio,PG,Phoenix Suns,16200000
+Jonas,Valanciunas,C,Memphis Grizzlies,16000000
+Brandon,Knight,PG,Detroit Pistons,15643750
+Kelly,Oubre,Jr. SG,Phoenix Suns,15625000
+Eric,Bledsoe,SG,Milwaukee Bucks,15625000
+Dennis,Schroder,PG,Oklahoma City Thunder,15500000
+Ian,Mahinmi,C,Washington Wizards,15450051
+James,Johnson,PF,Minnesota Timberwolves,15349400
+Bobby,Portis,C,New York Knicks,15000000
+Marcus,Morris,Sr. SF,LA Clippers,15000000
+Clint,Capela,C,Houston Rockets,14896552
+Luke,Babbitt,F,Miami Heat,14651700
+Danny,Green,SF,Los Angeles Lakers,14634146
+Rudy,Gay,SF,San Antonio Spurs,14500000
+Cody,Zeller,C,Charlotte Hornets,14471910
+Eric,Gordon,SG,Houston Rockets,14057730
+Mason,Plumlee,C,Denver Nuggets,14041096
+Marcin,Gortat,C,LA Clippers,13565218
+JJ,Redick,SG,New Orleans Pelicans,13486300
+Jordan,Clarkson,PG,Utah Jazz,13437500
+Dewayne,Dedmon,C,Atlanta Hawks,13333333
+Jusuf,Nurkic,C,Portland Trail Blazers,13125000
+Justise,Winslow,PF,Miami Heat,13000000
+Thaddeus,Young,PF,Chicago Bulls,12900000
+Will,Barton,SF,Denver Nuggets,12776786
+Courtney,Lee,G,Dallas Mavericks,12759670
+Solomon,Hill,SF,Miami Heat,12758781
+Larry,Nance,Jr. PF,Cleveland Cavaliers,12727273
+Kelly,Olynyk,PF,Miami Heat,12667885
+Marcus,Smart,PG,Boston Celtics,12553571
+Miles,Plumlee,C,Memphis Grizzlies,12500000
+Terrence,Ross,SG,Orlando Magic,12500000
+Nikola,Mirotic,F,Milwaukee Bucks,12500000
+Patty,Mills,PG,San Antonio Spurs,12428571
+Tyreke,Evans,G,Indiana Pacers,12400000
+Patrick,Beverley,PG,LA Clippers,12345680
+Trevor,Ariza,SF,Portland Trail Blazers,12195122
+Brook,Lopez,C,Milwaukee Bucks,12093023
+Cory,Joseph,PG,Sacramento Kings,12000000
+Joe,Ingles,SG,Utah Jazz,11954546
+Zach,Randolph,F,Dallas Mavericks,11692308
+Tony,Snell,SF,Detroit Pistons,11392857
+Robert,Covington,PF,Houston Rockets,11301219
+Meyers,Leonard,C,Miami Heat,11286516
+Omer,Asik,C,Chicago Bulls,11286516
+Maurice,Harkless,SF,New York Knicks,11011234
+T.J.,Warren,SF,Indiana Pacers,10810000
+Andre,Roberson,F,Oklahoma City Thunder,10740740
+Spencer,Dinwiddie,PG,Brooklyn Nets,10605600
+Jeremy,Lamb,SG,Indiana Pacers,10500000
+Dwight,Powell,C,Dallas Mavericks,10259375
+Josh,Richardson,SG,Philadelphia 76ers,10116576
+Norman,Powell,SF,Toronto Raptors,10116576
+Tomas,Satoransky,SG,Chicago Bulls,10000000
+Darren,Collison,PG,Los Angeles Lakers,10000000
+DeAndre,Jordan,C,Brooklyn Nets,9881598
+Zion,Williamson,PF,New Orleans Pelicans,9757440
+Markelle,Fultz,PG,Orlando Magic,9745200
+John,Henson,F,Detroit Pistons,9732396
+Matthew,Dellavedova,PG,Cleveland Cavaliers,9607500
+Dante,Exum,PG,Cleveland Cavaliers,9600000
+Deandre,Ayton,C,Phoenix Suns,9562920
+Delon,Wright,SG,Dallas Mavericks,9473684
+Fred,VanVleet,SG,Toronto Raptors,9346153
+Jerami,Grant,SF,Denver Nuggets,9346153
+Tyus,Jones,PG,Memphis Grizzlies,9258000
+Al-Farouq,Aminu,SF,Orlando Magic,9258000
+George,Hill,PG,Milwaukee Bucks,9133907
+Kyle,Anderson,SF,Memphis Grizzlies,9073050
+Taj,Gibson,C,New York Knicks,9000000
+Ja,Morant,PG,Memphis Grizzlies,8730240
+Lonzo,Ball,PG,New Orleans Pelicans,8719320
+E'Twaun,Moore,G,New Orleans Pelicans,8664928
+Marvin,Bagley,III PF,Sacramento Kings,8556120
+Bogdan,Bogdanovic,SG,Sacramento Kings,8529386
+P.J.,Tucker,PF,Houston Rockets,8349039
+CJ,Miles,G,Washington Wizards,8333333
+Cristiano,Felicio,PF,Chicago Bulls,8156500
+Ben,Simmons,PG,Philadelphia 76ers,8113930
+Kentavious,Caldwell-Pope,SG,Los Angeles Lakers,8089282
+Thomas,Bryant,C,Washington Wizards,8000000
+Elfrid,Payton,PG,New York Knicks,8000000
+Wayne,Ellington,SG,New York Knicks,8000000
+Maxi,Kleber,PF,Dallas Mavericks,8000000
+Lou,Williams,SG,LA Clippers,8000000
+RJ,Barrett,SG,New York Knicks,7839960
+Jayson,Tatum,SF,Boston Celtics,7830000
+Jae,Crowder,PF,Miami Heat,7815533
+Luka,Doncic,PG,Dallas Mavericks,7683360
+Joe,Harris,SF,Brooklyn Nets,7666667
+Darrell,Arthur,F,Phoenix Suns,7464912
+Seth,Curry,SG,Dallas Mavericks,7461380
+Doug,McDermott,SF,Indiana Pacers,7333333
+Langston,Galloway,SG,Detroit Pistons,7333333
+Derrick,Rose,PG,Detroit Pistons,7317073
+Brandon,Ingram,SF,New Orleans Pelicans,7265485
+D.J.,Augustin,G,Orlando Magic,7250000
+Lance,Thomas,F,Brooklyn Nets,7119650
+De'Andre,Hunter,SF,Atlanta Hawks,7068360
+Josh,Jackson,SG,Memphis Grizzlies,7059480
+Darius,Miller,SF,null Unknown,7000000
+Davis,Bertans,SF,Washington Wizards,7000000
+Ersan,Ilyasova,PF,Milwaukee Bucks,7000000
+Jaren,Jackson,Jr. PF,Memphis Grizzlies,6927480
+Nemanja,Bjelica,PF,Sacramento Kings,6825000
+Jaylen,Brown,SG,Boston Celtics,6534829
+Jabari,Parker,PF,Sacramento Kings,6500000
+Ivica,Zubac,C,LA Clippers,6481482
+Darius,Garland,PG,Cleveland Cavaliers,6400920
+De'Aaron,Fox,PG,Sacramento Kings,6392760
+Milos,Teodosic,G,LA Clippers,6300000
+Trae,Young,PG,Atlanta Hawks,6273000
+Wesley,Johnson,F,Washington Wizards,6134520
+Montrezl,Harrell,C,LA Clippers,6000000
+Ish,Smith,PG,Washington Wizards,6000000
+Marco,Belinelli,G,San Antonio Spurs,5846154
+Jarrett,Culver,G,Minnesota Timberwolves,5813640
+Jonathan,Isaac,PF,Orlando Magic,5806440
+Rodney,Hood,SG,Portland Trail Blazers,5718000
+Jonathon,Simmons,G,Washington Wizards,5700000
+Mo,Bamba,C,Orlando Magic,5697600
+Trey,Lyles,PF,San Antonio Spurs,5500000
+Alex,Abrines,G,Oklahoma City Thunder,5455236
+Aron,Baynes,C,Phoenix Suns,5453280
+Jason,Smith,F,New Orleans Pelicans,5450000
+Kris,Dunn,PG,Chicago Bulls,5348007
+Coby,White,PG,Chicago Bulls,5307120
+Lauri,Markkanen,PF,Chicago Bulls,5300400
+Alexis,Ajinca,C,LA Clippers,5285394
+Wendell,Carter,Jr. C,Chicago Bulls,5201400
+Dirk,Nowitzki,F,Dallas Mavericks,5000000
+Daniel,Theis,C,Boston Celtics,5000000
+Kyle,Singler,F,Oklahoma City Thunder,4996000
+Jaxson,Hayes,C,New Orleans Pelicans,4862040
+Buddy,Hield,SG,Sacramento Kings,4861208
+Frank,Ntilikina,PG,New York Knicks,4855800
+Rodney,McGruder,G,LA Clippers,4807693
+Richaun,Holmes,C,Sacramento Kings,4767000
+Justin,Holiday,SF,Indiana Pacers,4767000
+Frank,Kaminsky,PF,Phoenix Suns,4767000
+Mike,Scott,PF,Philadelphia 76ers,4767000
+Robin,Lopez,C,Milwaukee Bucks,4767000
+Avery,Bradley,PG,Los Angeles Lakers,4767000
+JaMychal,Green,PF,LA Clippers,4767000
+Ed,Davis,C,Utah Jazz,4767000
+Garrett,Temple,SF,Brooklyn Nets,4767000
+Enes,Freedom,C,Boston Celtics,4767000
+Collin,Sexton,PG,Cleveland Cavaliers,4764960
+Rui,Hachimura,PF,Washington Wizards,4469160
+Kevon,Looney,C,Golden State Warriors,4464226
+Dennis,Smith,Jr. PG,New York Knicks,4463640
+Jamal,Murray,PG,Denver Nuggets,4444746
+Kevin,Knox,II F,New York Knicks,4380120
+Luc,Mbah,a Moute F,Houston Rockets,4320500
+Cam,Reddish,SF,Atlanta Hawks,4245720
+Zach,Collins,PF,Portland Trail Blazers,4240200
+Mikal,Bridges,SF,Phoenix Suns,4161000
+Alex,Len,C,Sacramento Kings,4160000
+Nicolo,Melli,PF,New Orleans Pelicans,4102564
+Cameron,Johnson,SF,Phoenix Suns,4033440
+Malik,Monk,SG,Charlotte Hornets,4028400
+Patrick,McCaw,SF,Toronto Raptors,4000000
+JaVale,McGee,C,Los Angeles Lakers,4000000
+Dorian,Finney-Smith,PF,Dallas Mavericks,4000000
+Reggie,Bullock,SF,New York Knicks,4000000
+Shai,Gilgeous-Alexander,PG,Oklahoma City Thunder,3952920
+P.J.,Washington,PF,Charlotte Hornets,3831840
+Luke,Kennard,SG,Detroit Pistons,3827160
+Miles,Bridges,SF,Charlotte Hornets,3755400
+Jakob,Poeltl,C,San Antonio Spurs,3754886
+Tyler,Herro,PG,Miami Heat,3640200
+Donovan,Mitchell,SG,Utah Jazz,3635760
+Stanley,Johnson,PF,Toronto Raptors,3623000
+Jake,Layman,SF,Minnesota Timberwolves,3581986
+Thon,Maker,F,Detroit Pistons,3569643
+Jerome,Robinson,SG,Washington Wizards,3567720
+Allonzo,Trier,G,New York Knicks,3551000
+Danuel,House,Jr. SF,Houston Rockets,3540000
+Domantas,Sabonis,PF,Indiana Pacers,3529555
+Michael,Beasley,F,Brooklyn Nets,3500000
+T.J.,McConnell,PG,Indiana Pacers,3500000
+DeMarcus,Cousins,C,Denver Nuggets,3500000
+Boban,Marjanovic,C,Dallas Mavericks,3500000
+Dario,Saric,PF,Phoenix Suns,3481986
+Taurean,Prince,PF,Brooklyn Nets,3481986
+Romeo,Langford,SG,Boston Celtics,3458400
+Bam,Adebayo,C,Miami Heat,3454080
+Michael,Porter,Jr. SF,Denver Nuggets,3389400
+Denzel,Valentine,SG,Chicago Bulls,3377569
+Juancho,Hernangomez,F,Minnesota Timberwolves,3321030
+Sekou,Doumbouya,SF,Detroit Pistons,3285120
+Justin,Jackson,F,Dallas Mavericks,3280920
+Troy,Brown,Jr. SF,Washington Wizards,3219480
+Yogi,Ferrell,PG,Sacramento Kings,3150000
+Zhaire,Smith,G,Philadelphia 76ers,3058800
+Khem,Birch,C,Orlando Magic,3000000
+Quinn,Cook,PG,Los Angeles Lakers,3000000
+Ryan,Arcidiacono,G,Chicago Bulls,3000000
+Nickeil,Alexander-Walker,SG,New Orleans Pelicans,2964840
+D.J.,Wilson,F,Milwaukee Bucks,2961120
+Cedi,Osman,SF,Cleveland Cavaliers,2907143
+Donte,DiVincenzo,SG,Milwaukee Bucks,2905800
+Bryn,Forbes,SG,San Antonio Spurs,2875000
+Goga,Bitadze,C,Indiana Pacers,2816760
+T.J.,Leaf,PF,Indiana Pacers,2813280
+Alex,Caruso,SG,Los Angeles Lakers,2750000
+Malik,Beasley,SG,Minnesota Timberwolves,2731714
+Lonnie,Walker,IV SG,San Antonio Spurs,2689920
+Luka,Samanic,PF,San Antonio Spurs,2689920
+John,Collins,PF,Atlanta Hawks,2686560
+Kevin,Huerter,SG,Atlanta Hawks,2636280
+Caris,LeVert,SG,Brooklyn Nets,2625718
+Marko,Guduric,G,Memphis Grizzlies,2625000
+DeAndre',Bembry,SG,Atlanta Hawks,2603982
+Matisse,Thybulle,SG,Philadelphia 76ers,2582160
+Harry,Giles,III PF,Sacramento Kings,2578800
+Wesley,Matthews,SG,Milwaukee Bucks,2564753
+Rajon,Rondo,PG,Los Angeles Lakers,2564753
+Nene,Hilario,C,Atlanta Hawks,2564753
+Josh,Okogie,SF,Minnesota Timberwolves,2530680
+Vincent,Poirier,C,Boston Celtics,2505793
+Manu,Ginobili,G,San Antonio Spurs,2500000
+Rondae,Hollis-Jefferson,SF,Toronto Raptors,2500000
+Brandon,Clarke,PF,Memphis Grizzlies,2478840
+Terrance,Ferguson,SF,Oklahoma City Thunder,2475840
+Emeka,Okafor,C,Philadelphia 76ers,2445085
+Kendrick,Perkins,C,Cleveland Cavaliers,2445085
+Grayson,Allen,SG,Memphis Grizzlies,2429400
+Grant,Williams,PF,Boston Celtics,2379840
+Jarrett,Allen,C,Brooklyn Nets,2376840
+Pascal,Siakam,PF,Toronto Raptors,2351839
+Skal,Labissiere,F,Portland Trail Blazers,2338847
+Chandler,Hutchison,SF,Chicago Bulls,2332320
+Aaron,Holiday,PG,Indiana Pacers,2329200
+Dejounte,Murray,PG,San Antonio Spurs,2321735
+Damian,Jones,C,Atlanta Hawks,2305057
+Darius,Bazley,PF,Oklahoma City Thunder,2284800
+OG,Anunoby,SF,Toronto Raptors,2281800
+Ante,Zizic,C,Cleveland Cavaliers,2281800
+Luke,Kornet,F,Chicago Bulls,2250000
+Brandon,Jennings,G,Milwaukee Bucks,2222803
+Ty,Jerome,SG,Phoenix Suns,2193480
+Willie,Cauley-Stein,C,Dallas Mavericks,2177483
+Anfernee,Simons,SG,Portland Trail Blazers,2149560
+Austin,Rivers,SG,Houston Rockets,2147317
+Nassir,Little,SF,Portland Trail Blazers,2105520
+Moritz,Wagner,C,Washington Wizards,2063520
+Sean,Kilpatrick,G,Chicago Bulls,2054856
+Dylan,Windler,SG,Cleveland Cavaliers,2035800
+Caleb,Swanigan,F,Portland Trail Blazers,2033160
+Mike,Muscala,C,Oklahoma City Thunder,2028594
+Ben,McLemore,SG,Houston Rockets,2028594
+Torrey,Craig,SF,Denver Nuggets,2000000
+Edmond,Sumner,PG,Indiana Pacers,2000000
+Noah,Vonleh,F,Denver Nuggets,2000000
+Landry,Shamet,SG,LA Clippers,1995120
+Mfiondu,Kabengele,C,LA Clippers,1977000
+Kyle,Kuzma,SF,Los Angeles Lakers,1974600
+Jordan,Poole,SG,Golden State Warriors,1964760
+Tony,Bradley,C,Utah Jazz,1962360
+Keldon,Johnson,SF,San Antonio Spurs,1950600
+Derrick,White,PG,San Antonio Spurs,1948080
+Robert,Williams,III C,Boston Celtics,1937520
+Jacob,Evans,G,Minnesota Timberwolves,1925880
+Dzanan,Musa,F,Brooklyn Nets,1911600
+Omari,Spellman,F,Golden State Warriors,1897800
+James,Ennis,III F,Orlando Magic,1882867
+Shabazz,Napier,G,Washington Wizards,1845301
+Bruno,Caboclo,F,Houston Rockets,1845301
+DeAndre,Liggins,G,null Unknown,1795015
+Markieff,Morris,PF,Los Angeles Lakers,1750000
+Mario,Hezonja,F,Portland Trail Blazers,1737145
+Cameron,Payne,PG,Phoenix Suns,1737145
+Pat,Connaughton,SG,Milwaukee Bucks,1723050
+Jahlil,Okafor,C,New Orleans Pelicans,1702486
+Rodions,Kurucs,SF,Brooklyn Nets,1699236
+Jonah,Bolden,PF,Phoenix Suns,1698450
+Dragan,Bender,F,Golden State Warriors,1678854
+Cheick,Diallo,F,Phoenix Suns,1678854
+Willy,Hernangomez,C,Charlotte Hornets,1676735
+Julyan,Stone,G,Chicago Bulls,1656092
+MarShon,Brooks,G,Chicago Bulls,1656092
+Josh,Hart,SG,New Orleans Pelicans,1655160
+Georges,Niang,SF,Utah Jazz,1645357
+Treveon,Graham,F,Atlanta Hawks,1645357
+Christian,Wood,C,Detroit Pistons,1645357
+Jordan,McRae,G,Detroit Pistons,1645357
+Derrick,Jones,Jr. SF,Miami Heat,1645357
+Isaiah,Thomas,G,Washington Wizards,1620564
+Shaquille,Harrison,G,Chicago Bulls,1620564
+Isaiah,Taylor,G,Toronto Raptors,1620564
+Raul,Neto,PG,Philadelphia 76ers,1620564
+Tyler,Lydon,F,Sacramento Kings,1620564
+Emmanuel,Mudiay,G,Utah Jazz,1620564
+Glenn,Robinson,III F,Philadelphia 76ers,1620564
+Patrick,Patterson,PF,LA Clippers,1620564
+Furkan,Korkmaz,SG,Philadelphia 76ers,1620564
+Kyle,O'Quinn,C,Philadelphia 76ers,1620564
+Michael,Carter-Williams,PG,Orlando Magic,1620564
+Nerlens,Noel,C,Oklahoma City Thunder,1620564
+Alec,Burks,SG,Philadelphia 76ers,1620564
+Wilson,Chandler,F,Brooklyn Nets,1620564
+Kyle,Korver,G,Milwaukee Bucks,1620564
+Udonis,Haslem,PF,Miami Heat,1620564
+Jared,Dudley,SF,Los Angeles Lakers,1620564
+Dwight,Howard,C,Los Angeles Lakers,1620564
+JaKarr,Sampson,SF,Indiana Pacers,1620564
+Justin,Patton,C,Oklahoma City Thunder,1620564
+Ryan,Anderson,PF,Houston Rockets,1620564
+Thabo,Sefolosha,F,Houston Rockets,1620564
+Gerald,Green,G,Houston Rockets,1620564
+Tyson,Chandler,C,Houston Rockets,1620564
+Trey,Burke,PG,Dallas Mavericks,1620564
+J.J.,Barea,G,Dallas Mavericks,1620564
+Jarell,Martin,F,Cleveland Cavaliers,1620564
+Tim,Frazier,PG,Detroit Pistons,1620564
+Jordan,Bell,F,Memphis Grizzlies,1620564
+Joe,Johnson,G,Boston Celtics,1620564
+Vince,Carter,G,Atlanta Hawks,1620564
+Dillon,Brooks,SF,Memphis Grizzlies,1618520
+Royce,O'Neale,PF,Utah Jazz,1618520
+Abdel,Nader,SF,Oklahoma City Thunder,1618520
+Dwayne,Bacon,SG,Charlotte Hornets,1618520
+Damyean,Dotson,SG,New York Knicks,1618520
+Semi,Ojeleye,PF,Boston Celtics,1618520
+Frank,Jackson,PG,New Orleans Pelicans,1618520
+Sterling,Brown,SF,Milwaukee Bucks,1618520
+Wes,Iwundu,SF,Orlando Magic,1618420
+Dwight,Buycks,G,Detroit Pistons,1600520
+Mitchell,Robinson,C,New York Knicks,1599712
+Chris,Boucher,PF,Toronto Raptors,1588231
+Malcolm,Miller,F,Toronto Raptors,1588231
+Monte,Morris,PG,Denver Nuggets,1588231
+Antonio,Blakeney,G,Chicago Bulls,1588231
+Tyrone,Wallace,G,Atlanta Hawks,1588231
+Malachi,Richardson,G,Philadelphia 76ers,1569360
+Georgios,Papagiannis,C,Portland Trail Blazers,1544951
+Chinanu,Onuaku,C,Portland Trail Blazers,1544951
+Wade,Baldwin,IV G,Indiana Pacers,1544951
+Isaiah,Whitehead,G,Detroit Pistons,1544951
+Paul,Zipser,F,Chicago Bulls,1544951
+Amile,Jefferson,F,Orlando Magic,1529007
+Omri,Casspi,F,Memphis Grizzlies,1512601
+Lorenzo,Brown,G,Guangzhou Guangzhou Long-Lions,1512601
+Isaiah,Canaan,G,Milwaukee Bucks,1512601
+Dwyane,Wade,G,Miami Heat,1512601
+Nigel,Williams-Goss,G,Utah Jazz,1500000
+Isaiah,Roby,PF,Oklahoma City Thunder,1500000
+Alfonzo,McKinnie,F,Cleveland Cavaliers,1500000
+Shake,Milton,SG,Philadelphia 76ers,1455697
+Brad,Wanamaker,PG,Boston Celtics,1445697
+Thanasis,Antetokounmpo,SF,Milwaukee Bucks,1445697
+Wenyen,Gabriel,F,Portland Trail Blazers,1445697
+Derrick,Walton,Jr. G,Detroit Pistons,1445697
+Theo,Pinson,G,Brooklyn Nets,1445697
+Iman,Shumpert,G,Brooklyn Nets,1419138
+De'Anthony,Melton,SG,Memphis Grizzlies,1416852
+Gary,Trent,Jr. SG,Portland Trail Blazers,1416852
+Svi,Mykhailiuk,SG,Detroit Pistons,1416852
+Melvin,Frazier,Jr. G,Orlando Magic,1416852
+Kenrich,Williams,SF,New Orleans Pelicans,1416852
+Deonte,Burton,G,Oklahoma City Thunder,1416852
+Keita,Bates-Diop,SF,Denver Nuggets,1416852
+Chimezie,Metu,PF,San Antonio Spurs,1416852
+Ryan,Broekhoff,G,Dallas Mavericks,1416852
+Elie,Okobo,G,Phoenix Suns,1416852
+Bruce,Brown,SF,Detroit Pistons,1416852
+Jarred,Vanderbilt,PF,Minnesota Timberwolves,1416852
+Jevon,Carter,PG,Phoenix Suns,1416852
+Duncan,Robinson,SG,Miami Heat,1416852
+Jemerrio,Jones,F,Los Angeles Lakers,1416852
+Kendrick,Nunn,G,Miami Heat,1416852
+Isaiah,Hartenstein,C,Houston Rockets,1416852
+Khyri,Thomas,SG,Detroit Pistons,1416852
+Hamidou,Diallo,SG,Oklahoma City Thunder,1416852
+Jalen,Brunson,PG,Dallas Mavericks,1416852
+Alize,Johnson,F,Indiana Pacers,1416852
+Devonte',Graham,PG,Charlotte Hornets,1416852
+Dairis,Bertans,G,New Orleans Pelicans,1416852
+Yante,Maten,F,Boston Celtics,1416852
+Isaac,Bonga,G,Washington Wizards,1416842
+Tarik,Phillip,G,Washington Wizards,1416842
+Jaylen,Nowell,SG,Minnesota Timberwolves,1400000
+Bruno,Fernando,F,Atlanta Hawks,1400000
+Dakari,Johnson,C,Memphis Grizzlies,1378242
+Kyle,Collinsworth,G,Utah Jazz,1378242
+Jaylen,Morris,F,San Antonio Spurs,1378242
+Brandon,Paul,G,San Antonio Spurs,1378242
+Rodney,Purvis,G,Miami Heat,1378242
+David,Stockton,G,Los Angeles Lakers,1378242
+Zhou,Qi,C,Houston Rockets,1378242
+Aaron,Jackson,F,Houston Rockets,1378242
+Ike,Anigbogu,C,New Orleans Pelicans,1378242
+Carmelo,Anthony,PF,Portland Trail Blazers,1364204
+Jabari,Bird,G,Atlanta Hawks,1349464
+Ben,Moore,F,San Antonio Spurs,1349383
+James,Nunnally,SF,New Orleans Pelicans,1349383
+Kevin,Porter,Jr. SG,Cleveland Cavaliers,1290960
+Carsen,Edwards,PG,Boston Celtics,1228026
+Okaro,White,F,Washington Wizards,1187862
+Cody,Martin,SF,Charlotte Hornets,1173310
+Gary,Payton,II SG,Washington Wizards,1052909
+Nick,Young,G,Denver Nuggets,1042584
+Admiral,Schofield,SF,Washington Wizards,1000000
+Terance,Mann,SG,LA Clippers,1000000
+Ron,Baker,G,Washington Wizards,948580
+David,Nwaba,SF,Brooklyn Nets,903111
+Jalen,McDaniels,PF,Charlotte Hornets,898310
+Dewan,Hernandez,F,Toronto Raptors,898310
+Daniel,Gafford,C,Chicago Bulls,898310
+Eric,Paschall,PF,Golden State Warriors,898310
+Stanton,Kidd,SF,Utah Jazz,898310
+KZ,Okpala,F,Miami Heat,898310
+Terence,Davis,SG,Toronto Raptors,898310
+Ignas,Brazdeikis,SF,New York Knicks,898310
+Nic,Claxton,PF,Brooklyn Nets,898310
+Naz,Reid,C,Minnesota Timberwolves,898310
+Jalen,Lecque,G,Phoenix Suns,898310
+Max,Strus,SG,Chicago Bulls,898310
+Caleb,Martin,SF,Charlotte Hornets,898310
+Talen,Horton-Tucker,SG,Los Angeles Lakers,898310
+Alen,Smailagic,PF,Golden State Warriors,898310
+Justin,Robinson,F,Washington Wizards,898310
+Vlatko,Cancar,SF,Denver Nuggets,898310
+Matt,Thomas,SG,Toronto Raptors,898310
+Javonte,Green,SF,Boston Celtics,898310
+Miye,Oni,SG,Utah Jazz,898310
+Justin,James,G,Sacramento Kings,898310
+Damion,Lee,SG,Golden State Warriors,842327
+Isaiah,Briscoe,G,Orlando Magic,838464
+Juwan,Morgan,F,Utah Jazz,746054
+Marquese,Chriss,SF,Golden State Warriors,654469
+Timothe,Luwawu-Cabarrot,SG,Brooklyn Nets,654469
+Marvin,Williams,F,Milwaukee Bucks,604278
+Michael,Kidd-Gilchrist,F,Dallas Mavericks,595122
+Rayjon,Tucker,G,Utah Jazz,578573
+Chris,Clemons,G,Houston Rockets,563347
+Gary,Clark,F,Orlando Magic,555409
+Brandon,Goodwin,G,Atlanta Hawks,522738
+Reggie,Jackson,PG,LA Clippers,512721
+DeMarre,Carroll,F,Houston Rockets,512721
+Anzejs,Pasecniks,C,Washington Wizards,482144
+Chris,Silva,PF,Miami Heat,466918
+Jeff,Green,PF,Houston Rockets,439475
+Troy,Daniels,G,Denver Nuggets,384541
+Dion,Waiters,G,Los Angeles Lakers,375385
+Norvel,Pelle,PF,Philadelphia 76ers,350189
+Ky,Bowman,G,Golden State Warriors,350189
+Juan,Toscano-Anderson,SF,Golden State Warriors,350189
+JR,Smith,G,Los Angeles Lakers,289803
+Tyler,Zeller,C,San Antonio Spurs,245686
+Jimmer,Fredette,G,Phoenix Suns,208509
+Jontay,Porter,PF,Memphis Grizzlies,197933
+Tyler,Johnson,G,Brooklyn Nets,183115
+Anthony,Tolliver,PF,Memphis Grizzlies,183115
+Luguentz,Dort,SF,Oklahoma City Thunder,155647
