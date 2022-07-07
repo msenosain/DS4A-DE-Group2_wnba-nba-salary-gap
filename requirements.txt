@@ -24,9 +24,4 @@ dash-daq
 dash-bootstrap-components
 plotly
 requests
-
-# others
-boto3
 plotly.express
-bs4
-pprint
