@@ -28,6 +28,5 @@ requests
 # others
 boto3
 plotly.express
-csv
 bs4
 pprint
