@@ -149,6 +149,7 @@ def Header(name, app):
 
 # Start the app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 # Card components
 cards = [
