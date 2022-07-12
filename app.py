@@ -291,17 +291,35 @@ def top10players_bystat(league_val, stat):
     # Filter by League
     if league_val == 0:
         df = data_nba_wnba[data_nba_wnba["League"] == "WNBA"]
+        # Filter and sort by stat
+        df = (
+            df[["Player", "League", "Team", "Pos", "salary", stat]]
+            .sort_values(stat, ascending=False)
+            .head(10)
+        )
     if league_val == 1:
         df = data_nba_wnba[data_nba_wnba["League"] == "NBA"]
+        # Filter and sort by stat
+        df = (
+            df[["Player", "League", "Team", "Pos", "salary", stat]]
+            .sort_values(stat, ascending=False)
+            .head(10)
+        )
     if league_val == 2:
-        df = data_nba_wnba
-
-    # Filter and sort by stat
-    df = (
-        df[["Player", "League", "Team", "Pos", "salary", stat]]
-        .sort_values(stat, ascending=False)
-        .head(10)
-    )
+        df_w = data_nba_wnba[data_nba_wnba["League"] == "WNBA"]
+        df_n = data_nba_wnba[data_nba_wnba["League"] == "NBA"]
+        # Filter and sort by stat
+        df_w = (
+            df_w[["Player", "League", "Team", "Pos", "salary", stat]]
+            .sort_values(stat, ascending=False)
+            .head(10)
+        )
+        df_n = (
+            df_n[["Player", "League", "Team", "Pos", "salary", stat]]
+            .sort_values(stat, ascending=False)
+            .head(10)
+        )
+        df = pd.concat([df_w, df_n], ignore_index=True)
 
     # Plot by stat
     fig_stat = px.bar(
