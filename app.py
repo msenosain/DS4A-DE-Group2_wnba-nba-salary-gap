@@ -331,7 +331,7 @@ def top10players_bystat(league_val, stat):
         color_discrete_map={"WNBA": "#F57B20", "NBA": "#17408B"},
     )
     fig_stat.update_layout(
-        title_text="Top 10 players by chosen stat",
+        title_text="Top 10 players per league by chosen stat",
         showlegend=False,
         title_font_size=18,
         title_x=0.5,
@@ -358,7 +358,7 @@ def top10players_bystat(league_val, stat):
         color_discrete_map={"WNBA": "#F57B20", "NBA": "#17408B"},
     )
     fig_salary.update_layout(
-        title_text="Salary of top 10 players by chosen stat",
+        title_text="Salary of top 10 players per league by chosen stat",
         showlegend=False,
         title_font_size=18,
         title_x=0.5,
