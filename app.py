@@ -26,7 +26,7 @@ season_2019_df = season_2019_df.loc[
     (season_2019_df["team"] != "Team Wilson")
 ].sort_values(by="team")
 
-
+#
 ## MODIFY NUMBER FORMAT
 def human_format(num):
     num = float("{:.3g}".format(num))
